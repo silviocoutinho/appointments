@@ -1,0 +1,11 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "Sistema de agendamentos em TS",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silvio F. Coutinho",
+  "license": "ISC"
+}
